@@ -55,10 +55,12 @@ line-height: 25px;}
 
 .weather-app-temperature-container{display: flex;}
 
-.weather-app-temperature{font-size: 88px;}
+.weather-app-temperature{font-size: 88px;
+line-height: 88px;}
 
-.weather-app-icon{font-size: larger;
-margin-top: 30px;}
+.weather-app-icon{width: 88px;
+    height: 88px;
+}
 
-.weather-app-unit{margin-top: 30px;
+.weather-app-unit{margin-top: 6px;
 font-size: 44px;}
